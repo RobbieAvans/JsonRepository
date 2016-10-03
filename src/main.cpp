@@ -6,8 +6,8 @@
 int main() {
     // Create foo object
     Foo foo;
-    foo.setId(2);
-    foo.setName("Robbie2");
+    foo.setId(1);
+    foo.setName("Bar");
     foo.setAge(21);
 
     // Init the repository (repository factory in the future??)
